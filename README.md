@@ -28,7 +28,10 @@ owid_education_idx.csv
 service_workers_percent_of_employment.csv
 final_data.csv
 ### OUTPUT
-corr chart dev and corr chart nondev are both the outputs from Corr Charts.ipynb
+corr chart dev
+corr nondev
+GDP growth
+Industry worker %
 ### SCRIPTS
 data_cleaning.ipynb
 
