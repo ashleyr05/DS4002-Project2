@@ -40,9 +40,9 @@ data_cleaning.ipynb
 
 To reproduce the results of our project:
 
-Clone this repository from GitHub
-Open this repository in Visual Studio Code
-Install Python and Jupyter in Visual Studio Code
-If you wish to get final_data.csv on your own, download agriculture_workers_percent_of_employment.csv, child_mortality_0_5_year_olds_dying_per_1000_born.csv, children_per_woman_total_fertility.csv, exports_percent_of_gdp.csv, gdp_total_yearly_growth.csv, industry_workers_percent_of_employment.csv, lex.csv, owid_education_idx.csv, and service_workers_percent_of_employment.csv and run data_cleaning.ipynb
-Run Corr Charts.ipynb to get correlation charts of the variables segmented by developed and developing nations
-View PivotCharts.XLSX to get the excel file and pivot tables used to create 2 of the graphs used in presentation
+1) Clone this repository from GitHub
+2) Open this repository in Visual Studio Code
+3) Install Python and Jupyter in Visual Studio Code
+4) If you wish to get final_data.csv on your own, download agriculture_workers_percent_of_employment.csv, child_mortality_0_5_year_olds_dying_per_1000_born.csv, children_per_woman_total_fertility.csv, exports_percent_of_gdp.csv, gdp_total_yearly_growth.csv, industry_workers_percent_of_employment.csv, lex.csv, owid_education_idx.csv, and service_workers_percent_of_employment.csv and run data_cleaning.ipynb
+5) Run Corr Charts.ipynb to get correlation charts of the variables segmented by developed and developing nations
+6) View PivotCharts.XLSX in SCRIPTS to get the excel file and pivot tables used to create 2 of the graphs used in presentation
