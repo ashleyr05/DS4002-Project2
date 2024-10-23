@@ -7,37 +7,38 @@ This repository includes this README file to explain the purpose and function of
 There is a SCRIPTS folder that contains all of the source code files for our project. There is a DATA folder that contains all of the data for this project, and there is an OUTPUT folder that contains all of the visualizations generated in our project.
 
 ## Software and Platform
-# Types of software used
+### Types of software used
   Visual Studio Code
   
-# Packages installed
+### Packages installed
   Python, Jupyter, Pandas, Seaborn, Matplotlib, Numpy, Calmap
-# Platforms
+### Platforms
   Windows and Mac
 
 ## Map of Documentation
-### DATA
-agriculture_workers_percent_of_employment.csv
-child_mortality_0_5_year_olds_dying_per_1000_born.csv
-children_per_woman_total_fertility.csv
-exports_percent_of_gdp.csv
-gdp_total_yearly_growth.csv
-industry_workers_percent_of_employment.csv
-lex.csv
-owid_education_idx.csv
-service_workers_percent_of_employment.csv
-final_data.csv
-### OUTPUT
-corr chart dev
-corr nondev
-GDP growth
-Industry worker %
-### SCRIPTS
-data_cleaning.ipynb
+### DATA Folder
+- agriculture_workers_percent_of_employment.csv
+- child_mortality_0_5_year_olds_dying_per_1000_born.csv
+- children_per_woman_total_fertility.csv
+- exports_percent_of_gdp.csv
+- gdp_total_yearly_growth.csv
+- industry_workers_percent_of_employment.csv
+- lex.csv
+- owid_education_idx.csv
+- service_workers_percent_of_employment.csv
+- final_data.csv
+- DataAppendix.pdf
+### OUTPUT Folder
+- corr chart dev
+- corr nondev
+- GDP growth
+- Industry worker %
+### SCRIPTS Folder
+- data_cleaning.ipynb
 
-### LICENSE.md
+### LICENSE.md File
 
-### README.md
+### README.md File
 
 ## Instructions for Reproducing Results
 
