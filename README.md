@@ -29,12 +29,14 @@ There is a SCRIPTS folder that contains all of the source code files for our pro
 - final_data.csv
 - DataAppendix.pdf
 ### OUTPUT Folder
-- corr chart dev
-- corr nondev
-- GDP growth
-- Industry worker %
+- corr chart dev.png
+- corr nondev.png
+- GDP growth.png
+- Industry worker %.png
 ### SCRIPTS Folder
+- Corr Charts.ipynb
 - data_cleaning.ipynb
+- PivotCharts.xlsx
 
 ### LICENSE.md File
 
