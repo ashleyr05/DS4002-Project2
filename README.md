@@ -11,7 +11,7 @@ There is a SCRIPTS folder that contains all of the source code files for our pro
   Visual Studio Code
   
 ### Packages installed
-  Python, Jupyter, Pandas, Seaborn, Matplotlib, Numpy, Calmap
+  Python, Jupyter, Pandas, Seaborn, Matplotlib, Numpy
 ### Platforms
   Windows and Mac
 
