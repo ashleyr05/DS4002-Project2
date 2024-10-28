@@ -52,3 +52,4 @@ To reproduce the results of our project:
 4) If you wish to get final_data.csv on your own, download agriculture_workers_percent_of_employment.csv, child_mortality_0_5_year_olds_dying_per_1000_born.csv, children_per_woman_total_fertility.csv, exports_percent_of_gdp.csv, gdp_total_yearly_growth.csv, industry_workers_percent_of_employment.csv, lex.csv, owid_education_idx.csv, and service_workers_percent_of_employment.csv and run data_cleaning.ipynb
 5) Run Corr Charts.ipynb to get correlation charts of the variables segmented by developed and developing nations
 6) View PivotCharts.XLSX in SCRIPTS to get the excel file and pivot tables used to create 2 of the graphs used in presentation
+7) Run P2 Analysis.ipynb to replicate the SARIMAX model
