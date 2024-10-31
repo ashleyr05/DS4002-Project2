@@ -55,10 +55,10 @@ To reproduce the results of our project:
 7) Run P2 Analysis.ipynb to replicate the SARIMAX model
 
 ## References
-[1]Gapminder, “Gapminder: Unveiling the beauty of statistics for a fact based world view.,” Gapminder.org, 2023. https://www.gapminder.org/
-[2]Scikit-learn, “Scikit-learn: Machine Learning in Python,.” Scikit-learn.org, 2023. https://scikit-learn.org/stable/
-[3]United Nations, “List of LDCs | Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States,” www.un.org, 2023. https://www.un.org/ohrlls/content/list-ldcs
-[4]World Population Review, “Developed Countries List 2020,” worldpopulationreview.com, 2022. https://worldpopulationreview.com/country-rankings/developed-countries
-[5]Minitab, ”Modified Box-Pierce (Ljung-Box) Chi-Square Statistic” support.minitab.com, 2023.https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/time-series/how-to/arima/interpret-the-results/all-statistics-and-graphs/modified-box-pierce-ljung-box-chi-square-statistics/#:~:text=multiples%20of%2012.-,Interpretation,for%20each%20chi%20square%20statistic.
-[6] Datascientest, “SARIMAX: What is It?” datascientest.com, 2023. https://datascientest.com/en/sarimax-model-what-is-it-how-can-it-be-applied-to-time-series
-[7] Statsmodels, “SARIMAXResults.testheteroskedasticity” statsmodels.org, 2021.https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAXResults.test_heteroskedasticity.html#statsmodels.tsa.statespace.sarimax.SARIMAXResults.test_heteroskedasticity
+### [1]Gapminder, “Gapminder: Unveiling the beauty of statistics for a fact based world view.,” Gapminder.org, 2023. https://www.gapminder.org/
+### [2]Scikit-learn, “Scikit-learn: Machine Learning in Python,.” Scikit-learn.org, 2023. https://scikit-learn.org/stable/
+### [3]United Nations, “List of LDCs | Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States,” www.un.org, 2023. https://www.un.org/ohrlls/content/list-ldcs
+### [4]World Population Review, “Developed Countries List 2020,” worldpopulationreview.com, 2022. https://worldpopulationreview.com/country-rankings/developed-countries
+### [5]Minitab, ”Modified Box-Pierce (Ljung-Box) Chi-Square Statistic” support.minitab.com, 2023.https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/time-series/how-to/arima/interpret-the-results/all-statistics-and-graphs/modified-box-pierce-ljung-box-chi-square-statistics/#:~:text=multiples%20of%2012.-,Interpretation,for%20each%20chi%20square%20statistic.
+### [6] Datascientest, “SARIMAX: What is It?” datascientest.com, 2023. https://datascientest.com/en/sarimax-model-what-is-it-how-can-it-be-applied-to-time-series
+### [7] Statsmodels, “SARIMAXResults.testheteroskedasticity” statsmodels.org, 2021.https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAXResults.test_heteroskedasticity.html#statsmodels.tsa.statespace.sarimax.SARIMAXResults.test_heteroskedasticity
